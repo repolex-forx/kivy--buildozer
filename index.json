@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "buildozer",
+  "versions": [
+    {
+      "commit": "76bac28545c66bbcc671d49aca553a747d69608e",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:10:51.417591+00:00"
+    }
+  ]
+}
