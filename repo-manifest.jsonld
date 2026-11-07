@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/buildozer/commit/76bac28545c66bbcc671d49aca553a747d69608e",
       "git:hexsha": "76bac28545c66bbcc671d49aca553a747d69608e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/buildozer/commit/3c87c38f1eb740e3ccb65ca9cd6d7706f9165e29",
